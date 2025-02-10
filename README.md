@@ -26,13 +26,11 @@ Welcome to my GitHub profile! I'm a passionate student from **[SMK 8 MALANG]**, 
 Here are some of my featured projects:
 
 📌 **[Nama Proyek 1]** - [Deskripsi Singkat]
-🔗 [GitHub Repo](https://github.com/username/proyek1) | 🎨 [Live Demo](https://example.com)
+🔗 [GitHub Repo]([https://github.com/username/proyek1](https://github.com/aegaramadhan/CamEga))
 
 📌 **[Nama Proyek 2]** - [Deskripsi Singkat]
-🔗 [GitHub Repo](https://github.com/username/proyek2)
+🔗 [GitHub Repo]([https://github.com/username/proyek2](https://github.com/aegaramadhan/porto-ega-rakryan))
 
-📌 **[Nama Proyek 3]** - [Deskripsi Singkat]
-🔗 [GitHub Repo](https://github.com/username/proyek3)
 
 (*More projects are available in my repositories!*)
 
