@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm a passionate student from **[SMK 8 MALANG]**, 
 ---
 
 ### 📊 Skill Summary
-![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
+![](https://github-readme-stats.vercel.app/api?username=aegaramadhan&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aegaramaadhan&theme=dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aegaramadhan&layout=compact&theme=blue-green)
 ---
 
 ### 📌 My Projects
